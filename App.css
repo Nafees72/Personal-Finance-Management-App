@@ -1,0 +1,23 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.form input {
+  margin: 5px;
+}
+
+.form button {
+  margin: 5px;
+  padding: 5px 10px;
+}
+
+.transactions {
+  margin-top: 20px;
+}
+
+.transaction {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
