@@ -21,7 +21,7 @@ Ensure you have the following installed on your system:
 ### Steps
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/personal-finance-management.git
+   git clone https://github.com/Nafees78/personal-finance-management.git
    ```
 2. Navigate to the project directory:
    ```sh
@@ -59,5 +59,5 @@ We welcome contributions! Follow these steps:
 This project is licensed under the MIT License. See `LICENSE` for details.
 
 ## Contact
-For any queries, feel free to reach out at [your-email@example.com](mailto:your-email@example.com).
+For any queries, feel free to reach out at ahmad3085014@gmail.com
 # Personal-Finance-Management-App
